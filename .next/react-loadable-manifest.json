@@ -1,0 +1,24 @@
+{
+  "components/sections/domain-search.tsx -> react-confetti": {
+    "id": "components/sections/domain-search.tsx -> react-confetti",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_react-confetti_dist_react-confetti_mjs.js"
+    ]
+  },
+  "node_modules/@supabase/auth-js/dist/module/lib/helpers.js -> @supabase/node-fetch": {
+    "id": "node_modules/@supabase/auth-js/dist/module/lib/helpers.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "node_modules/@supabase/functions-js/dist/module/helper.js -> @supabase/node-fetch": {
+    "id": "node_modules/@supabase/functions-js/dist/module/helper.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js -> @supabase/node-fetch": {
+    "id": "node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "node_modules/@supabase/storage-js/dist/module/lib/helpers.js -> @supabase/node-fetch": {
+    "id": "node_modules/@supabase/storage-js/dist/module/lib/helpers.js -> @supabase/node-fetch",
+    "files": []
+  }
+}
