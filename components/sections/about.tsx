@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import Image from "next/image";
 import Button from "@/components/ui/button";
 
-import mdshoaibSrc from "@/assets/images/mdshoaibakhtar.png";
+import mdshoaibSrc from "@/assets/images/mdshoaibakhtar.jpg";
 import aahilSrc from "@/assets/images/aahil.jpeg";
 
 export default function About() {

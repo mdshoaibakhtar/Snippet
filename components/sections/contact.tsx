@@ -51,7 +51,7 @@ export default function Contact() {
 							className="hover:text-[#0077B5] cursor-pointer transition-colors duration-300"
 							onClick={() =>
 								window.open(
-									"https://www.linkedin.com/in/mdshoaibakhtar/",
+									"https://www.linkedin.com/in/mdshoaibakhtar08//",
 									"_blank",
 								)
 							}
